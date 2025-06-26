@@ -31,7 +31,7 @@ spec:
     - linux/s390x
     - linux/ppc64le
   - name: dockerfile
-    value: Dockerfile
+    value: detectors/Dockerfile.hf
   - name: path-context
     value: .
   pipelineSpec:
